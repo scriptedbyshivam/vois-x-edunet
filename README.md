@@ -24,7 +24,7 @@ Agricultural productivity and farm profitability in India are heavily influenced
 | **Institution** | Arya College Of Engineering |
 | **Domain** | Data Analytics / Agricultural Domain Analytics |
 | **Program** | VOIS x EduNet Foundation Internship |
-| **Deliverables** | Primary Notebook (`.ipynb`), Report (`.pdf`), Dataset (`.csv`) |
+| **Deliverables** | Primary Notebook (`.ipynb`), Reports (`.pdf`), Presentation (`.pptx`), Dataset (`.csv`) |
 
 ---
 
@@ -47,7 +47,9 @@ VOIS/
 ├── 📄 LICENSE                                                          # MIT Open-Source License
 ├── 📊 seasonal_agriculture_performance_dataset.csv                     # Raw Agricultural Dataset
 ├── 📓 Seasonal_Agriculture_Performance_Analysis_and_Visualization.ipynb # Primary Analysis & EDA Notebook
-└── 📕 Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf      # Executive Presentation / Report
+├── 📕 Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf      # Executive Summary Report
+├── 📕 Data_Visualization_VOIS.pdf                                      # Complete Visual Analytics Report
+└── 📙 VOIS_Major_Project_PPT_Submission.pptx                           # Major Project Slide Deck Presentation
 ```
 
 ---
