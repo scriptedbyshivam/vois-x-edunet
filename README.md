@@ -48,8 +48,8 @@ VOIS/
 ├── 📊 seasonal_agriculture_performance_dataset.csv                     # Raw Agricultural Dataset
 ├── 📓 Seasonal_Agriculture_Performance_Analysis_and_Visualization.ipynb # Primary Analysis & EDA Notebook
 ├── 📕 Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf      # Executive Summary Report
-├── 📕 Data_Visualization_VOIS.pdf                                      # Complete Visual Analytics Report
-└── 📙 VOIS_Major_Project_PPT_Submission.pptx                           # Major Project Slide Deck Presentation
+├── 📕 Shivam_Maurya_Data_Visualization_VOIS.pdf                        # Complete Visual Analytics Report
+└── 📙 Shivam_Maurya_VOIS_Major_Project_PPT_Submission.pptx           # Major Project Slide Deck Presentation
 ```
 
 ---
